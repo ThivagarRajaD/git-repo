@@ -1,6 +1,11 @@
 first line
 second line
 third line
+<<<<<<< HEAD
+4th line
+||||||| 0f8758c
+=======
 fourth line
 fifth line
 sixth line
+>>>>>>> dev
